@@ -1,6 +1,8 @@
 ## chinese_sentiments analysis ##
 1.main_chinese_sentiment_on_10wWeibodata.ipynb
 
+Note0: data from path:data\weibo_senti_100k of this worksite
+
 Note1: Using BLSTM to do the chinese_sentiments analysis on 10W Weibo Data, Accuracy is: 95.84%
 
 Note2: Get Weibo data[10W+ data] from https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb
