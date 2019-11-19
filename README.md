@@ -3,7 +3,7 @@
 
 Note1: Using BLSTM to do the chinese_sentiments analysis on 10W Weibo Data, Accuracy is: 95.84%
 
-Note2: Get Weibo data from https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb
+Note2: Get Weibo data[10W+ data] from https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb
 
 Note3: Get Word Embedding file from: https://pan.baidu.com/s/1GerioMpwj1zmju9NkkrsFg Keycode: x6v3
 
