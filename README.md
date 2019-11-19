@@ -1,4 +1,4 @@
-# chinese_sentiments
+# chinese_sentiments\n
 chinese_sentiments analysis 
 1.main _chinese_sentiment_on_10wWeibodata.ipynb
 
