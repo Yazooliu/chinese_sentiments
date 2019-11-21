@@ -1,4 +1,4 @@
-## chinese_sentiments analysis on 10W Weibo Data##
+## chinese_sentiments analysis on 10W Weibo Data
 1.main_chinese_sentiment_on_10wWeibodata.ipynb
 
 Note0: data from path:data\weibo_senti_100k of this worksite
